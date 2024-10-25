@@ -1,0 +1,15 @@
+C:\Project\coursework comp 1551\coursework\coursework\bin\Debug\net8.0\coursework.exe
+C:\Project\coursework comp 1551\coursework\coursework\bin\Debug\net8.0\coursework.deps.json
+C:\Project\coursework comp 1551\coursework\coursework\bin\Debug\net8.0\coursework.runtimeconfig.json
+C:\Project\coursework comp 1551\coursework\coursework\bin\Debug\net8.0\coursework.dll
+C:\Project\coursework comp 1551\coursework\coursework\bin\Debug\net8.0\coursework.pdb
+C:\Project\coursework comp 1551\coursework\coursework\obj\Debug\net8.0\coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\coursework comp 1551\coursework\coursework\obj\Debug\net8.0\coursework.AssemblyInfoInputs.cache
+C:\Project\coursework comp 1551\coursework\coursework\obj\Debug\net8.0\coursework.AssemblyInfo.cs
+C:\Project\coursework comp 1551\coursework\coursework\obj\Debug\net8.0\coursework.csproj.CoreCompileInputs.cache
+C:\Project\coursework comp 1551\coursework\coursework\obj\Debug\net8.0\coursework.dll
+C:\Project\coursework comp 1551\coursework\coursework\obj\Debug\net8.0\refint\coursework.dll
+C:\Project\coursework comp 1551\coursework\coursework\obj\Debug\net8.0\coursework.pdb
+C:\Project\coursework comp 1551\coursework\coursework\obj\Debug\net8.0\coursework.genruntimeconfig.cache
+C:\Project\coursework comp 1551\coursework\coursework\obj\Debug\net8.0\ref\coursework.dll
+C:\Project\coursework comp 1551\coursework\coursework\obj\Debug\net8.0\coursework.sourcelink.json
